@@ -1,19 +1,10 @@
 Package: paleoPhylo
 Type: Package
-Title: Biodiversity Analyses in a Paleontological and Phylogenetic
-        Context
+Title: Biodiversity Analyses in a Paleontological and Phylogenetic Context
 Version: 1.0-108
-Date: 2009, last update 05/02/2013
-Author: Thomas Ezard and Andy Purvis
-Maintainer: Thomas Ezard <t.ezard@soton.ac.uk>
-Description: Contains a suite of functions to analyze how speciation, extinction & character change contribute to biodiversity and display these relationships graphically.  The functions are designed to inform realistic models of clade evolution; examples are drawn from data on planktonic foraminifera or generated randomly.  Development is ongoing; paleoPhylo currently consists of graphical tools to plot paleobiological phylogenies incorporating stratigraphic uncertainty.
-License: GPL (>= 2)
+Author: Tom Ezard and Andy Purvis
+Maintainer: Tom Ezard <t.ezard@soton.ac.uk>
+Description: Contains a suite of functions to analyze how speciation, extinction & character change contribute to biodiversity and display these relationships graphically.  The functions are designed to inform realistic models of clade evolution; examples are drawn from data on planktonic foraminifera or generated randomly.  Development is ongoing; paleoPhylo currently consists of graphical tools to plot paleobiological phylogenies incorporating stratigraphic uncertainty..
+Encoding: UTF-8
+LazyData: true
 Depends: R (>= 2.14.0), ape
-LazyLoad: yes
-Repository: R-Forge
-Repository/R-Forge/Project: paleophylo
-Repository/R-Forge/Revision: 138
-Repository/R-Forge/DateTimeStamp: 2014-01-16 15:20:39
-Date/Publication: 2014-01-16 15:20:39
-Packaged: 2014-01-16 19:16:48 UTC; rforge
-Built: R 3.2.0; ; 2015-06-10 15:29:09 UTC; unix

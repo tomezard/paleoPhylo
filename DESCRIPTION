@@ -4,7 +4,7 @@ Title: Biodiversity Analyses in a Paleontological and Phylogenetic Context
 Version: 1.0-108
 Author: Tom Ezard and Andy Purvis
 Maintainer: Tom Ezard <t.ezard@soton.ac.uk>
-Description: Contains a suite of functions to analyze how speciation, extinction & character change contribute to biodiversity and display these relationships graphically.  The functions are designed to inform realistic models of clade evolution; examples are drawn from data on planktonic foraminifera or generated randomly.  Development is ongoing; paleoPhylo currently consists of graphical tools to plot paleobiological phylogenies incorporating stratigraphic uncertainty..
+Description: Contains a suite of functions to analyze how speciation, extinction & character change contribute to biodiversity and display these relationships graphically.  The functions are designed to inform realistic models of clade evolution; examples are drawn from data on planktonic foraminifera or generated randomly. Last updated 2013. paleoPhylo currently consists of graphical tools to plot paleobiological phylogenies incorporating stratigraphic uncertainty..
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 2.14.0), ape

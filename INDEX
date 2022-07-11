@@ -1,0 +1,21 @@
+ape2paleoPhylo          Convert objects of class 'phylo' to class
+                        'paleoPhylo'.
+as.paleoPhylo           The 'paleoPhylo' class.
+berggren95              W.A. Berggren's 1995 geologic timescale
+createBifurcate         Create a fully bifurcating object of class
+                        'phylo'.
+css                     Calculate Corrected Survivorship Scores.
+drawPhylo               Plot a lineage phylogeny.
+gradstein04             Gradstein et al.'s 2004 Geologic Time Scale.
+paleoPhylo-package      Biodiversity Analyses in a Paleontological and
+                        Phylogenetic Context
+pearson93               An example lineage phylogeny.
+prune.to.date           Returns the phylogeny of the clade to some
+                        cut-off point.
+pruneTree               Prune a tree.
+rwb                     Calculate per-lineage origination and
+                        extinction rates within a set of bins
+stratUnc                Include stratigraphic uncertainty in paleoPhylo
+                        plots.
+timeAxis                Plot a time axis to append to, e.g., diversity
+                        curve plots.
